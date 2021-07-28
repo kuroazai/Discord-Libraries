@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 12 18:05:50 2021
 
-@author: Fidelis Mwansa
+@author: KuroAzai
 """
 
 from bs4 import BeautifulSoup
